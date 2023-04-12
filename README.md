@@ -1,1 +1,3 @@
-# flight_delay_forecasting
+# Flight delay forecasting
+Flight delays are something that every traveler has most likely experienced at least once at some point in their journeys. Being able to predict flight delays ahead of departure and arrival time can potentially reduce the last-minute change of schedules. It can also help airlines make the necessary preparations in advance to ensure that they make the journey for their passengers as smooth as possible. The period we focused on for our project is from January 2019 to December 2021, which includes the two key year period of the covid-19 pandemic. To put our datasets into perspective, we are focusing on airline on-time performance, airline passengers, airline employees, and covid-19 cases to gather insights on what could possibly be the key to flight delays and cancellations. In this project, alongside predicting delays, we also try to look at the impact covid had on the airline industry in the US.
+
